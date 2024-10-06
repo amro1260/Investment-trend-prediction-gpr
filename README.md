@@ -15,3 +15,7 @@ Key Concepts
 Linear Regression: Provides a quick and simple trend estimate.
 Gaussian Process Regression (GPR): Captures non-linear patterns and provides uncertainty estimates for predictions.
 Confidence Intervals: Shaded regions around the prediction line, representing the uncertainty of the predictions.
+
+![example ](https://github.com/user-attachments/assets/ed410bc1-c905-4e4b-ad96-b30b57fd11fc)
+
+
