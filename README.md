@@ -1,4 +1,4 @@
-Investment Trend Prediction with Uncertainty Estimation
+# Investment Trend Prediction with Uncertainty Estimation
 
 This project focused on predicting investment trends over time using a combination of Linear Regression and Gaussian Process Regression (GPR). The GPR model allows for the estimation of uncertainty, providing confidence intervals around the predictions to better understand the model's confidence in its forecasts.
 
